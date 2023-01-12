@@ -5,7 +5,7 @@ Authors:
  * [Johnny Agosto](https://github.com/JayEnEn) 
  * [Chiara Malizia](https://github.com/YukiKya) 
 
-Download the dataset https://www.kaggle.com/c/m5-forecasting-accuracy
+Download the dataset [here](https://www.kaggle.com/c/m5-forecasting-accuracy)
 
 This repository contains:
 - Exploratory Data Analysis (EDA) on M5_Walmart dataset
